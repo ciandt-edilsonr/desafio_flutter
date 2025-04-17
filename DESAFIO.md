@@ -78,7 +78,7 @@ O aplicativo deve permitir que os usuários respondam a perguntas de múltipla e
 
 ## Entregáveis 📦
 
-1. Pull Request da sua branch para a branch "desafio" no repositório base
+1. Pull Request da sua branch para a branch "desafio" no repositório [base](https://github.com/ciandt-edilsonr/desafio_flutter)
 2. README.md contendo:
    - Descrição do projeto
    - Instruções para executar o aplicativo
